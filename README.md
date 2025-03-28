@@ -57,5 +57,4 @@ My goal is to secure a cybersecurity role where I can apply my skills, expand my
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/Ethan-Elston/Network-Analysis-Exfiltration-Lab">Network Analysis (Exfiltration) Lab</a>
