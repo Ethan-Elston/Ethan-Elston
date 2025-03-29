@@ -58,3 +58,4 @@ My goal is to secure a cybersecurity role where I can apply my skills, expand my
 
 ## Projects
 - <a href="https://github.com/Ethan-Elston/Network-Analysis-Exfiltration-Lab">Network Analysis (Exfiltration) Lab</a>
+- <a href="https://github.com/Ethan-Elston/Investigating-PCAPs">Investigating PCAPs Lab</a>
