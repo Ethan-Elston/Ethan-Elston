@@ -57,6 +57,7 @@ My goal is to secure a cybersecurity role where I can apply my skills, expand my
 </div>
 
 ## Projects
+- <a href="https://github.com/Ethan-Elston/Network-Analysis-Malware">Network Analysis (Malware) Lab</a>
 - <a href="https://github.com/Ethan-Elston/Brute-Force-SSH-Log-Analysis">Brute Force (SSH) Analysis Lab</a>
 - <a href="https://github.com/Ethan-Elston/Email-Analysis-Phishing">Email Analysis (Phishing) Lab</a>
 - <a href="https://github.com/Ethan-Elston/Endpoint-Analysis-WordPress">Endpoint Analysis (WordPress) Lab</a>
